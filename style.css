@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  justify-content: center;
+}
+
+.logoheader {
+  display: flex;
+}
+
+#container_loc {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: linear-gradient(#CFCFCF, #EAEAEA);
+  height: 25px;
+}
+
+#loc, i {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: pink;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
